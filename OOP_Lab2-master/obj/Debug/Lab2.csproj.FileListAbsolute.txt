@@ -1,0 +1,74 @@
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\bin\Debug\Lab2.exe.config
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\bin\Debug\Lab2.exe
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\bin\Debug\Lab2.pdb
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\MainWindow.g.cs
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\App.g.cs
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\MainWindow.baml
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.g.resources
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.exe
+C:\Users\pesto\OneDrive\Рабочий стол\OOP_Lab2-master\obj\Debug\Lab2.pdb
+D:\~СибГУТИ\ООП\OOP_Lab2-master\bin\Debug\Lab2.exe.config
+D:\~СибГУТИ\ООП\OOP_Lab2-master\bin\Debug\Lab2.exe
+D:\~СибГУТИ\ООП\OOP_Lab2-master\bin\Debug\Lab2.pdb
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\MainWindow.g.cs
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\App.g.cs
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.cache
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.lref
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\MainWindow.baml
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.g.resources
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.Properties.Resources.resources
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.exe
+D:\~СибГУТИ\ООП\OOP_Lab2-master\obj\Debug\Lab2.pdb
+C:\sidr\OOP_Lab2-master\bin\Debug\Lab2.exe.config
+C:\sidr\OOP_Lab2-master\bin\Debug\Lab2.exe
+C:\sidr\OOP_Lab2-master\bin\Debug\Lab2.pdb
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\sidr\OOP_Lab2-master\obj\Debug\MainWindow.g.cs
+C:\sidr\OOP_Lab2-master\obj\Debug\App.g.cs
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.cache
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.lref
+C:\sidr\OOP_Lab2-master\obj\Debug\MainWindow.baml
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.g.resources
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.Properties.Resources.resources
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.exe
+C:\sidr\OOP_Lab2-master\obj\Debug\Lab2.pdb
+C:\Users\wings\Desktop\OOP_Lab2-master\bin\Debug\Lab2.exe.config
+C:\Users\wings\Desktop\OOP_Lab2-master\bin\Debug\Lab2.exe
+C:\Users\wings\Desktop\OOP_Lab2-master\bin\Debug\Lab2.pdb
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\MainWindow.g.cs
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\App.g.cs
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\MainWindow.baml
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.g.resources
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.exe
+C:\Users\wings\Desktop\OOP_Lab2-master\obj\Debug\Lab2.pdb
+C:\Users\51ch\Desktop\OOP_Lab2-master\bin\Debug\Lab2.exe.config
+C:\Users\51ch\Desktop\OOP_Lab2-master\bin\Debug\Lab2.exe
+C:\Users\51ch\Desktop\OOP_Lab2-master\bin\Debug\Lab2.pdb
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\MainWindow.g.cs
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\App.g.cs
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\MainWindow.baml
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.g.resources
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.exe
+C:\Users\51ch\Desktop\OOP_Lab2-master\obj\Debug\Lab2.pdb
